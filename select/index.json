@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Pray for love",
+  "base_artist": "いきづらい部！、春宮ゆくり(CV.奥村優季)",
+  "createdAt": "2026-02-19T13:06:04.163360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pray for Love",
+      "artist": "Edge of Dawn",
+      "has_synced": false,
+      "path": "select/01_Pray_for_Love_Edge_of_Dawn.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pray For Love",
+      "artist": "Vanessa Amorosi",
+      "has_synced": false,
+      "path": "select/02_Pray_For_Love_Vanessa_Amorosi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pray For Love",
+      "artist": "Kwabs",
+      "has_synced": true,
+      "path": "select/03_Pray_For_Love_Kwabs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pray For Love (Nils Schulte Remix)",
+      "artist": "Edge Of Dawn",
+      "has_synced": false,
+      "path": "select/04_Pray_For_Love_(Nils_Schulte_Remix)_Edge_Of_Dawn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pray for Love",
+      "artist": "Kwabs",
+      "has_synced": true,
+      "path": "select/05_Pray_for_Love_Kwabs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pray For Love (DJ Chus & David Penn Vocal Mix)",
+      "artist": "Jason Hates Jazz",
+      "has_synced": false,
+      "path": "select/06_Pray_For_Love_(DJ_Chus_&_David_Penn_Vocal_Mix)_Jason_Hates_Jazz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pray for Love - Maya Jane Coles Remix",
+      "artist": "Kwabs",
+      "has_synced": false,
+      "path": "select/07_Pray_for_Love_-_Maya_Jane_Coles_Remix_Kwabs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pray For Love (Nils Schulte Mix)",
+      "artist": "Edge Of Dawn",
+      "has_synced": false,
+      "path": "select/08_Pray_For_Love_(Nils_Schulte_Mix)_Edge_Of_Dawn.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pray For Love",
+      "artist": "Love and Money",
+      "has_synced": false,
+      "path": "select/09_Pray_For_Love_Love_and_Money.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pray for love",
+      "artist": "いきづらい部!、春宮ゆくり(CV.奥村優季)",
+      "has_synced": false,
+      "path": "select/pl_01_Pray_for_love_いきづらい部!、春宮ゆくり(CV.奥村優季).txt"
+    }
+  ]
+}
